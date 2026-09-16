@@ -1,77 +1,60 @@
 # Photo attribution
 
-All photos in this folder come from [Unsplash](https://unsplash.com) and are used under the
-[Unsplash License](https://unsplash.com/license) (free to use, no permission needed; attribution appreciated,
-not required). None are Unsplash+ / premium assets. Files were resized, re-encoded and stripped of
-metadata; frames marked "4:5 crop" were cropped from a landscape original.
+Every photo in this folder comes from [Unsplash](https://unsplash.com) and is used under the
+[Unsplash License](https://unsplash.com/license), which allows free commercial and non-commercial use
+without permission. Crediting the photographer is not required by the licence; it is done here anyway.
 
-These are real people from stock shoots, used only as placeholders in an internal prototype.
-Replace them with photos of consenting members before any public release, and do not present
-them as real Baxtlilar members.
+Photos are cropped, resized and re-encoded for the app. No photo depicts a real user of Baxtlilar:
+the member personas are stock portraits standing in for a demo profile.
 
 ## Member personas
 
-| File | Shows | Photographer | Unsplash photo | Original |
-|---|---|---|---|---|
-| `photos/members/dilnoza-1.jpg` | Woman in a black puffer jacket with a red hood, soft smile, by a mesh fence | [Artur Kornakov](https://unsplash.com/@arturkornakov) | [LVE5vZ0swg8](https://unsplash.com/photos/a-woman-in-a-black-jacket-leaning-against-a-fence-LVE5vZ0swg8) | 4000x6000 |
-| `photos/members/dilnoza-2.jpg` | Same woman leaning on a green fence post at an outdoor court | [Artur Kornakov](https://unsplash.com/@arturkornakov) | [PfSis3tRU68](https://unsplash.com/photos/a-woman-leaning-against-a-fence-with-a-handbag-PfSis3tRU68) | 4000x6000 |
-| `photos/members/dilnoza-3.jpg` | Same woman peeking round the fence post, playful | [Artur Kornakov](https://unsplash.com/@arturkornakov) | [hhJt5UDUwZ0](https://unsplash.com/photos/a-woman-leaning-against-a-fence-with-her-hand-on-the-side-of-the-fence-hhJt5UDUwZ0) | 3601x5401 |
-| `photos/members/madina-1.jpg` | Woman in a sage-green headscarf and long coat, calm portrait in a park | [Raamin ka](https://unsplash.com/@raaminka) | [yP5zvVL38sQ](https://unsplash.com/photos/woman-in-gray-hijab-and-black-long-sleeve-shirt-yP5zvVL38sQ) | 4000x6000 |
-| `photos/members/madina-2.jpg` | Same woman sitting on a wooden park bench holding a book | [Raamin ka](https://unsplash.com/@raaminka) | [sLjtUFc4wfg](https://unsplash.com/photos/woman-in-gray-hijab-and-black-leggings-sitting-on-brown-wooden-bench-sLjtUFc4wfg) | 4000x6000 |
-| `photos/members/madina-3.jpg` | Same woman reading a book on the bench under autumn trees | [Raamin ka](https://unsplash.com/@raaminka) | [fKOaqae7zcs](https://unsplash.com/photos/woman-in-black-hoodie-sitting-on-brown-wooden-bench-fKOaqae7zcs) | 4000x6000 |
-| `photos/members/sevara-1.jpg` | Woman in a dark-green headscarf and orange dress, warm portrait | [Milad Shams](https://unsplash.com/@mmiladshams) | [NAdFJtFFlHE](https://unsplash.com/photos/woman-wearing-green-hijab-headscarf-standing-NAdFJtFFlHE) | 4912x7360 |
-| `photos/members/sevara-2.jpg` | Same woman smiling on a city walkway, tinted glasses | [Milad Shams](https://unsplash.com/@mmiladshams) | [QnF6Ow3prqo](https://unsplash.com/photos/woman-wearing-green-and-orange-abaya-dress-QnF6Ow3prqo) | 4000x6000 |
-| `photos/members/sevara-3.jpg` | Same woman seated on steps, looking over her shoulder | [Milad Shams](https://unsplash.com/@mmiladshams) | [baWEU0uWkWs](https://unsplash.com/photos/focus-photography-of-woman-in-green-headscarf-baWEU0uWkWs) | 4912x7360 |
-| `photos/members/nigora-1.jpg` | Woman in a grey headscarf smiling at a cafe table (4:5 crop of a landscape frame) | [Soheil Kmp](https://unsplash.com/@soheilkmp) | [qwwImY1plsE](https://unsplash.com/photos/a-woman-sitting-at-a-table-in-a-restaurant-qwwImY1plsE) | 6720x4480 |
-| `photos/members/nigora-2.jpg` | Same woman resting her chin on her hand in a green-walled cafe (4:5 crop) | [Soheil Kmp](https://unsplash.com/@soheilkmp) | [eKA34ZQ_3Kk](https://unsplash.com/photos/a-woman-sitting-at-a-table-in-a-restaurant-eKA34ZQ_3Kk) | 6720x4480 |
-| `photos/members/nigora-3.jpg` | Same woman reading a magazine at the cafe table (4:5 crop) | [Soheil Kmp](https://unsplash.com/@soheilkmp) | [yzsuHj11ZsI](https://unsplash.com/photos/a-woman-sitting-at-a-table-reading-a-book-yzsuHj11ZsI) | 5784x4400 |
-| `photos/members/zarina-1.jpg` | Woman in a black headscarf and beige trench coat against an ivy wall | [Rezli](https://unsplash.com/@rezli) | [IFhxiY2OW14](https://unsplash.com/photos/a-woman-standing-in-front-of-a-wall-of-leaves-IFhxiY2OW14) | 4000x5334 |
-| `photos/members/zarina-2.jpg` | Same woman, half-body, ivy wall background | [Rezli](https://unsplash.com/@rezli) | [ZCS6vW0Xp1A](https://unsplash.com/photos/a-woman-standing-in-front-of-a-wall-of-leaves-ZCS6vW0Xp1A) | 4000x5334 |
-| `photos/members/kamola-1.jpg` | Woman in a bright-blue headscarf and black coat, smiling with eyes closed, autumn park | [Maxim Potkin ❄](https://unsplash.com/@maxzzerzz) | [pXwyQFjyZRY](https://unsplash.com/photos/a-person-wearing-a-scarf-and-a-scarf-around-the-head-pXwyQFjyZRY) | 4912x7360 |
-| `photos/members/laylo-1.jpg` | Woman in a cream hijab and lime-green blouse smiling indoors | [Fajar Herlambang STUDIO](https://unsplash.com/@hng21) | [92W3YA_TJ0Q](https://unsplash.com/photos/a-smiling-woman-poses-in-a-green-outfit-92W3YA_TJ0Q) | 4012x6016 |
-| `photos/members/laylo-2.jpg` | Same woman, close smiling shot in a classroom (4:5 crop of a landscape frame) | [Fajar Herlambang STUDIO](https://unsplash.com/@hng21) | [K-djRi5VTZQ](https://unsplash.com/photos/smiling-woman-gives-a-peace-sign-K-djRi5VTZQ) | 6016x4012 |
-| `photos/members/laylo-3.jpg` | Same woman, full-length in a batik skirt with a handbag | [Fajar Herlambang STUDIO](https://unsplash.com/@hng21) | [zkac4lVIOGY](https://unsplash.com/photos/a-woman-in-traditional-attire-smiles-confidently-zkac4lVIOGY) | 4012x6016 |
-| `photos/members/gulnora-1.jpg` | Woman in a brown hijab and dark-green dress, arms crossed, smiling | [Levi Meir Clancy](https://unsplash.com/@levimeirclancy) | [ajWjuIEF2qU](https://unsplash.com/photos/a-woman-in-a-hijab-standing-with-her-arms-crossed-ajWjuIEF2qU) | 4160x5200 |
-| `photos/members/gulnora-2.jpg` | Same woman on a park bench, chin on hand (4:5 crop of a landscape frame) | [Levi Meir Clancy](https://unsplash.com/@levimeirclancy) | [VM8BtQAZlTk](https://unsplash.com/photos/a-woman-in-a-hijab-is-sitting-on-a-bench-VM8BtQAZlTk) | 6240x4160 |
-| `photos/members/gulnora-3.jpg` | Same woman on the bench looking aside, palm trees behind (4:5 crop) | [Levi Meir Clancy](https://unsplash.com/@levimeirclancy) | [Bs3TcBHg004](https://unsplash.com/photos/a-woman-in-a-hijab-sitting-on-a-bench-Bs3TcBHg004) | 6240x4160 |
-| `photos/members/shahlo-1.jpg` | Woman in a cream scarf-hijab and black top smiling outdoors | [dzulkifli lantana](https://unsplash.com/@dzvlm) | [_XIUcteveNQ](https://unsplash.com/photos/a-woman-wearing-a-white-head-scarf-_XIUcteveNQ) | 3376x6000 |
-| `photos/members/shahlo-2.jpg` | Same woman, hands on hips, trees behind | [dzulkifli lantana](https://unsplash.com/@dzvlm) | [HWqP4bKN9O4](https://unsplash.com/photos/HWqP4bKN9O4) | 3376x6000 |
-| `photos/members/shahlo-3.jpg` | Same woman by a lake holding her phone | [dzulkifli lantana](https://unsplash.com/@dzvlm) | [M-A2zizyEus](https://unsplash.com/photos/M-A2zizyEus) | 3376x6000 |
-| `photos/members/malika-1.jpg` | Woman with a grey knitted shawl smiling against a brick wall | [Omid Ajorlo](https://unsplash.com/@omidajorlo7) | [rVYbjnrpcbg](https://unsplash.com/photos/a-woman-wearing-a-shawl-standing-next-to-a-brick-wall-rVYbjnrpcbg) | 2730x4096 |
-| `photos/members/mohira-1.jpg` | Woman in a black headscarf and brown coat smiling before a blue-tiled dome | [Aryan Fo](https://unsplash.com/@aryan_fo) | [RicClsovZ-M](https://unsplash.com/photos/a-woman-standing-in-front-of-a-building-RicClsovZ-M) | 1684x2994 |
-| `photos/members/jasur-1.jpg` | Young man in glasses and a cream short-sleeve shirt on a leafy street | [omid bonyadian](https://unsplash.com/@omidbonyadian_) | [29v6GTjBwgM](https://unsplash.com/photos/a-man-wearing-glasses-29v6GTjBwgM) | 4000x6000 |
-| `photos/members/jasur-2.jpg` | Same man laughing outdoors, glasses hooked on his shirt (4:5 crop of a landscape frame) | [omid bonyadian](https://unsplash.com/@omidbonyadian_) | [ROK7RJyRtlE](https://unsplash.com/photos/a-man-standing-outside-ROK7RJyRtlE) | 6000x4000 |
-| `photos/members/jasur-3.jpg` | Same man standing at the foot of park stairs | [omid bonyadian](https://unsplash.com/@omidbonyadian_) | [XaPNo10Cwes](https://unsplash.com/photos/a-man-standing-on-a-sidewalk-XaPNo10Cwes) | 3806x5709 |
-| `photos/members/sardor-1.jpg` | Young man in glasses, tan work jacket over a white tee | [Amir Abbaspoor](https://unsplash.com/@amirabbaspoor) | [h0aftdgc4_I](https://unsplash.com/photos/a-man-wearing-glasses-and-a-brown-jacket-h0aftdgc4_I) | 4160x6240 |
-| `photos/members/sardor-2.jpg` | Same man sitting on light stone steps | [Amir Abbaspoor](https://unsplash.com/@amirabbaspoor) | [psQFNct8fh4](https://unsplash.com/photos/a-man-sitting-on-a-set-of-stairs-psQFNct8fh4) | 4160x6240 |
-| `photos/members/sardor-3.jpg` | Same man leaning on a striped wooden wall | [Amir Abbaspoor](https://unsplash.com/@amirabbaspoor) | [1C4SMWBihDk](https://unsplash.com/photos/a-man-standing-in-front-of-a-wooden-wall-1C4SMWBihDk) | 4160x6012 |
-| `photos/members/bekzod-1.jpg` | Bearded man in a navy shirt in front of old wooden doors | [Mohammad Mardani](https://unsplash.com/@mmdam20) | [SFrn-OvD668](https://unsplash.com/photos/SFrn-OvD668) | 3712x5568 |
-| `photos/members/bekzod-2.jpg` | Same man standing in a dark doorway, hand in pocket | [Mohammad Mardani](https://unsplash.com/@mmdam20) | [NEK5VseJN7I](https://unsplash.com/photos/NEK5VseJN7I) | 3712x5568 |
-| `photos/members/bekzod-3.jpg` | Same man walking past a brick facade with wooden windows | [Mohammad Mardani](https://unsplash.com/@mmdam20) | [iEKW5kB_C9s](https://unsplash.com/photos/iEKW5kB_C9s) | 3712x5568 |
-| `photos/members/otabek-1.jpg` | Man in a tailored dark-green suit, smart portrait by tall windows | [omid bonyadian](https://unsplash.com/@omidbonyadian_) | [6OpE-aBqOUU](https://unsplash.com/photos/a-man-in-a-suit-6OpE-aBqOUU) | 3456x5184 |
-| `photos/members/otabek-2.jpg` | Same man buttoning his jacket, marble wall | [omid bonyadian](https://unsplash.com/@omidbonyadian_) | [lQ0bz51_cXM](https://unsplash.com/photos/a-man-in-a-green-jacket-lQ0bz51_cXM) | 3456x5017 |
-| `photos/members/otabek-3.jpg` | Same man, close half-body, window frame behind | [omid bonyadian](https://unsplash.com/@omidbonyadian_) | [kx9eaK1RBzI](https://unsplash.com/photos/a-person-in-a-uniform-kx9eaK1RBzI) | 3456x5184 |
-| `photos/members/bobur-1.jpg` | Bearded Central Asian man in a black tee, natural light | [Bobur Mavlonov](https://unsplash.com/@boburmavlonov) | [IO4ye3xOWIg](https://unsplash.com/photos/a-man-with-a-beard-and-a-black-shirt-IO4ye3xOWIg) | 4480x6720 |
-| `photos/members/aziz-1.jpg` | Smiling Central Asian man in a blue tee with a lanyard, old-town square | [Nursultan Abakirov](https://unsplash.com/@nabakirov) | [zx2JFW_t9xc](https://unsplash.com/photos/a-person-with-a-name-tag-zx2JFW_t9xc) | 3769x5654 |
-| `photos/members/rustam-1.jpg` | Man with a moustache in a checked blazer, outdoors (4:5 crop of a landscape frame) | [Ghadir Sarwari](https://unsplash.com/@ghadirsarwari) | [M-Qp65U1qZg](https://unsplash.com/photos/a-man-in-a-suit-standing-in-front-of-a-tree-M-Qp65U1qZg) | 5184x3456 |
-| `photos/members/timur-1.jpg` | Smiling man in glasses and a denim shirt, arms crossed, tree-lined road | [Mohammad Mardani](https://unsplash.com/@mmdam20) | [D4QAui4VV5s](https://unsplash.com/photos/D4QAui4VV5s) | 3712x5568 |
+| File | Persona | Photographer | Source |
+| --- | --- | --- | --- |
+| `photos/members/dilnoza-1.jpg` | dilnoza | [amin naderloei](https://unsplash.com/@aminnaderloei) | [FJj9JnT-scY](https://unsplash.com/photos/young-woman-with-long-brown-hair-outdoors-FJj9JnT-scY) |
+| `photos/members/madina-1.jpg` | madina | [Olek Buzunov](https://unsplash.com/@olek_bznv_photo) | [Nyqjg_DXLAw](https://unsplash.com/photos/woman-in-a-fur-coat-in-a-snowy-forest-Nyqjg_DXLAw) |
+| `photos/members/madina-2.jpg` | madina | [Olek Buzunov](https://unsplash.com/@olek_bznv_photo) | [vm_Y0Xk1MyA](https://unsplash.com/photos/a-woman-in-a-fur-coat-in-a-snowy-forest-vm_Y0Xk1MyA) |
+| `photos/members/sevara-1.jpg` | sevara | [AIII YOOOO](https://unsplash.com/@ertyig) | [48P0Sg7pFwg](https://unsplash.com/photos/young-woman-smiling-outdoors-in-winter-clothing-48P0Sg7pFwg) |
+| `photos/members/nigora-1.jpg` | nigora | [Monika Schlarman](https://unsplash.com/@bymonika_photography) | [SjIVAPGBM2U](https://unsplash.com/photos/young-woman-in-a-sweater-by-a-flowering-bush-SjIVAPGBM2U) |
+| `photos/members/nigora-2.jpg` | nigora | [Monika Schlarman](https://unsplash.com/@bymonika_photography) | [6Xwg7JcWX3c](https://unsplash.com/photos/young-woman-smiles-by-a-metal-fence-at-sunset-6Xwg7JcWX3c) |
+| `photos/members/laylo-1.jpg` | laylo | [Nolan Manning](https://unsplash.com/@nolanrmanning) | [Ll9YOG20UFI](https://unsplash.com/photos/smiling-woman-at-wooden-table-Ll9YOG20UFI) |
+| `photos/members/gulnora-1.jpg` | gulnora | [Zulfugar Karimov](https://unsplash.com/@zulfugarkarimov) | [ycqW6EXT_PA](https://unsplash.com/photos/smiling-woman-with-cityscape-in-background-ycqW6EXT_PA) |
+| `photos/members/zarina-1.jpg` | zarina | [Compagnons](https://unsplash.com/@sigmund) | [jzz_3jWMzHA](https://unsplash.com/photos/woman-in-white-and-blue-checked-dress-shirt-jzz_3jWMzHA) |
+| `photos/members/jasur-1.jpg` | jasur | [Ghadir Sarwari](https://unsplash.com/@ghadirsarwari) | [M-Qp65U1qZg](https://unsplash.com/photos/a-man-in-a-suit-standing-in-front-of-a-tree-M-Qp65U1qZg) |
+| `photos/members/jasur-2.jpg` | jasur | [Ghadir Sarwari](https://unsplash.com/@ghadirsarwari) | [rxkPinhyfhU](https://unsplash.com/photos/rxkPinhyfhU) |
+| `photos/members/sardor-1.jpg` | sardor | [Nima Mot](https://unsplash.com/@nimamot) | [tHIeP_KUgZg](https://unsplash.com/photos/a-man-wearing-glasses-and-an-orange-shirt-tHIeP_KUgZg) |
+| `photos/members/bekzod-1.jpg` | bekzod | [AL Kaium](https://unsplash.com/@al_kaium) | [-84sDXRetis](https://unsplash.com/photos/young-man-in-patterned-shirt-smiles-outdoors--84sDXRetis) |
+| `photos/members/bekzod-2.jpg` | bekzod | [AL Kaium](https://unsplash.com/@al_kaium) | [cV58ouCA7dU](https://unsplash.com/photos/young-man-in-patterned-shirt-stands-outdoors-cV58ouCA7dU) |
+| `photos/members/otabek-1.jpg` | otabek | [Anky Lau](https://unsplash.com/@anky) | [ntLkvt6OZvQ](https://unsplash.com/photos/a-man-in-a-white-shirt-looking-at-the-camera-ntLkvt6OZvQ) |
+| `photos/members/rustam-1.jpg` | rustam | [Babak Eshaghian](https://unsplash.com/@babak22ir) | [zb5N7RzIO_4](https://unsplash.com/photos/man-leaning-against-a-wall-on-a-sidewalk-zb5N7RzIO_4) |
 
-## Welcome / marketing
+## Welcome & marketing
 
-| File | Shows | Photographer | Unsplash photo | Original |
-|---|---|---|---|---|
-| `photos/welcome/nikah-flowers.jpg` | Bride in a white hijab gown handing a bouquet to the kneeling groom under a carved lattice arch | [Ainur Iman](https://unsplash.com/@mynameisiknow) | [dV8xI8mmnJs](https://unsplash.com/photos/bride-gives-groom-a-bouquet-of-white-roses-dV8xI8mmnJs) | 4035x6052 |
-| `photos/welcome/nikah-marriage-books.jpg` | Newlyweds in white traditional nikah attire smiling and holding up their marriage books | [Rizky Motion](https://unsplash.com/@rizky_motion) | [9Lq0zlOu_dw](https://unsplash.com/photos/newlyweds-holding-marriage-books-in-traditional-attire-9Lq0zlOu_dw) | 4545x3132 |
-| `photos/welcome/wedding-registan.jpg` | Uzbek bride (long-sleeved lace gown, veil) and groom exchanging rings on Registan Square, Samarkand | [Abdul Raaz](https://unsplash.com/@raazstories) | [wY7aTy2SH-s](https://unsplash.com/photos/man-and-woman-in-wedding-dress-walking-on-the-street-during-daytime-wY7aTy2SH-s) | 3840x2160 |
-| `photos/welcome/couple-garden-hands.jpg` | Bride and groom in modest traditional wedding attire walking hand in hand down garden steps | [Fahmy Taza](https://unsplash.com/@fahmytaza) | [FwF1-F4wEGA](https://unsplash.com/photos/a-man-and-woman-in-wedding-attire-FwF1-F4wEGA) | 4160x6240 |
-| `photos/welcome/family-autumn-park.jpg` | Young family - mother in hijab, father and toddler - smiling in an autumn park | [Asal Mshk](https://unsplash.com/@asalmashkoori) | [1hIysloHFZY](https://unsplash.com/photos/a-family-poses-for-a-photo-in-the-autumn-1hIysloHFZY) | 3456x5184 |
-| `photos/welcome/family-three-generations.jpg` | Three-generation family (grandparents, parents, children) posing at dusk in front of a historic mosque square | [Aurélien Lemasson-Théobald](https://unsplash.com/@aurel__lens) | [NCZt-dUakjs](https://unsplash.com/photos/group-of-people-standing-on-yellow-red-and-green-flower-field-during-daytime-NCZt-dUakjs) | 6016x4016 |
-| `photos/welcome/shah-i-zinda-woman.jpg` | Woman in a teal hijab and long navy dress at the blue-tiled Shah-i-Zinda necropolis, Samarkand | [Edgar Cavazos](https://unsplash.com/@edgar_cape) | [ONokA7pWRfE](https://unsplash.com/photos/woman-poses-in-front-of-stunning-blue-architecture-ONokA7pWRfE) | 2992x2993 |
-| `photos/welcome/plov-dastarkhan.jpg` | Uzbek plov on a hand-painted platter on a wooden dastarkhan table | [otabek xatipov](https://unsplash.com/@arrogant_7007) | [IuQl4SNJO3Q](https://unsplash.com/photos/a-plate-of-food-with-meat-and-rice-on-a-table-IuQl4SNJO3Q) | 4160x6240 |
+| File | Shows | Photographer | Source |
+| --- | --- | --- | --- |
+| `photos/welcome/couple-autumn-park.jpg` | Couple holding hands in an autumn park at sunset | [Alexander Mass](https://unsplash.com/@alexandermassph) | [GbNGmQaL1RY](https://unsplash.com/photos/a-couple-holding-hands-in-an-autumn-park-at-sunset-GbNGmQaL1RY) |
+| `photos/welcome/couple-city-walk.jpg` | Couple walking down a city street hand in hand | [Mieke Campbell](https://unsplash.com/@miekelauren) | [EsqeXhiVCEo](https://unsplash.com/photos/a-man-and-a-woman-walking-down-a-street-holding-hands-EsqeXhiVCEo) |
+| `photos/welcome/couple-laughing-tree.jpg` | Couple laughing together in front of a broad tree | [Dominic Chasse](https://unsplash.com/@keepitchassephotography) | [szysBQ88wR4](https://unsplash.com/photos/a-smiling-couple-embraces-in-front-of-a-tree-szysBQ88wR4) |
+| `photos/welcome/family-park-child.jpg` | Father lifting his small daughter in a sunlit park | [Ricardo Maruri](https://unsplash.com/@maruri) | [THn-kqNgZ8A](https://unsplash.com/photos/man-in-white-and-red-polo-shirt-carrying-girl-in-blue-denim-jeans-during-daytime-THn-kqNgZ8A) |
+| `photos/welcome/family-in-the-grass.jpg` | Family sitting together in tall grass at golden hour | [Dylan Michaud](https://unsplash.com/@dylan_michaud) | [vISLDBH5Sic](https://unsplash.com/photos/a-group-of-people-sitting-in-a-grassy-area-vISLDBH5Sic) |
+| `photos/welcome/family-generations.jpg` | Three generations of a family celebrating outdoors | [Jennifer Kalenberg](https://unsplash.com/@jkalen71) | [FEWg2B2o2wY](https://unsplash.com/photos/family-joyfully-anticipates-a-new-babys-arrival-FEWg2B2o2wY) |
 
-## Backgrounds
+## Form backgrounds
 
-| File | Shows | Photographer | Unsplash photo | Original |
-|---|---|---|---|---|
-| `photos/backgrounds/girih-relief-soft.jpg` | Soft grey carved geometric (girih) star relief - low contrast, safe directly behind text | [KC Shum](https://unsplash.com/@kcshum) | [PE7PiuPkBt8](https://unsplash.com/photos/a-close-up-of-a-white-wall-with-a-pattern-on-it-PE7PiuPkBt8) | 4000x3000 |
-| `photos/backgrounds/registan-tilework.jpg` | Blue majolica tilework arcades of a Registan madrasa, Samarkand - busy; use behind text only with a dark overlay or blur | [Far Chinberdiev](https://unsplash.com/@fardevio) | [iOUQSxsEXdA](https://unsplash.com/photos/an-ornate-building-with-blue-and-white-tiles-iOUQSxsEXdA) | 6100x4067 |
+| File | Shows | Photographer | Source |
+| --- | --- | --- | --- |
+| `photos/backgrounds/form-1.jpg` | Sunlit park path thrown out of focus - pale and even behind text | [Rodolfo Marques](https://unsplash.com/@rodolfomarques) | [O9aO_mCIeZg](https://unsplash.com/photos/brown-and-white-wooden-table-O9aO_mCIeZg) |
+| `photos/backgrounds/form-2.jpg` | Warm evening bokeh, soft golden circles with no hard edges | [Johny Goerend](https://unsplash.com/@johnygoerend) | [5jO5fQqSZi4](https://unsplash.com/photos/white-and-yellow-bokeh-lights-5jO5fQqSZi4) |
+| `photos/backgrounds/form-3.jpg` | Backlit willow leaves thrown far out of focus - soft green, no hard edges | [Anna Krylova](https://unsplash.com/@annashoots) | [f43nA3OqZuo](https://unsplash.com/photos/willow-leaves-backlit-by-sun-f43nA3OqZuo) |
+| `photos/backgrounds/form-4.jpg` | Soft folds of off-white fabric, very low contrast | [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) | [ln8ZmISaPxM](https://unsplash.com/photos/a-close-up-view-of-a-white-fabric-ln8ZmISaPxM) |
+| `photos/backgrounds/girih-relief-soft.jpg` | Soft grey carved geometric (girih) star relief - low contrast, safe directly behind text | [KC Shum](https://unsplash.com/@kcshum) | [PE7PiuPkBt8](https://unsplash.com/photos/a-close-up-of-a-white-wall-with-a-pattern-on-it-PE7PiuPkBt8) |
+
+## Chat demo media (outside this folder)
+
+The seeded Aisha chat and the call screen need media that is not a profile photo. Both are cut from photos
+listed above, so they carry the same Unsplash credit; they live next to the other demo files the app loads.
+
+| File | Cut from | Shows |
+| --- | --- | --- |
+| `welcome/family.jpg` | `photos/welcome/family-park-child.jpg` | The photo Aisha sends in the chat - a family in a sunlit park |
+| `chat/video.mp4`, `chat/video-poster.jpg` | `photos/members/madina-1.jpg` | Aisha's own persona on a slow zoom: her video message, and the far end of a video call |
