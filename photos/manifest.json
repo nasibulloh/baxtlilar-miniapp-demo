@@ -1,0 +1,1004 @@
+{
+  "members": [
+    {
+      "id": "dilnoza",
+      "gender": "female",
+      "approxAge": 29,
+      "photos": [
+        {
+          "src": "photos/members/dilnoza-1.jpg",
+          "role": "portrait",
+          "focus": "50% 38%",
+          "shows": "Woman in a black puffer jacket with a red hood, soft smile, by a mesh fence",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 4000,
+          "originalHeight": 6000,
+          "unsplashId": "LVE5vZ0swg8",
+          "source": "https://unsplash.com/photos/a-woman-in-a-black-jacket-leaning-against-a-fence-LVE5vZ0swg8",
+          "photographer": "Artur Kornakov",
+          "photographerUrl": "https://unsplash.com/@arturkornakov",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        },
+        {
+          "src": "photos/members/dilnoza-2.jpg",
+          "role": "lifestyle",
+          "focus": "55% 32%",
+          "shows": "Same woman leaning on a green fence post at an outdoor court",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 4000,
+          "originalHeight": 6000,
+          "unsplashId": "PfSis3tRU68",
+          "source": "https://unsplash.com/photos/a-woman-leaning-against-a-fence-with-a-handbag-PfSis3tRU68",
+          "photographer": "Artur Kornakov",
+          "photographerUrl": "https://unsplash.com/@arturkornakov",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        },
+        {
+          "src": "photos/members/dilnoza-3.jpg",
+          "role": "extra",
+          "focus": "40% 34%",
+          "shows": "Same woman peeking round the fence post, playful",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 3601,
+          "originalHeight": 5401,
+          "unsplashId": "hhJt5UDUwZ0",
+          "source": "https://unsplash.com/photos/a-woman-leaning-against-a-fence-with-her-hand-on-the-side-of-the-fence-hhJt5UDUwZ0",
+          "photographer": "Artur Kornakov",
+          "photographerUrl": "https://unsplash.com/@arturkornakov",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        }
+      ]
+    },
+    {
+      "id": "madina",
+      "gender": "female",
+      "approxAge": 27,
+      "photos": [
+        {
+          "src": "photos/members/madina-1.jpg",
+          "role": "portrait",
+          "focus": "50% 26%",
+          "shows": "Woman in a sage-green headscarf and long coat, calm portrait in a park",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 4000,
+          "originalHeight": 6000,
+          "unsplashId": "yP5zvVL38sQ",
+          "source": "https://unsplash.com/photos/woman-in-gray-hijab-and-black-long-sleeve-shirt-yP5zvVL38sQ",
+          "photographer": "Raamin ka",
+          "photographerUrl": "https://unsplash.com/@raaminka",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        },
+        {
+          "src": "photos/members/madina-2.jpg",
+          "role": "lifestyle",
+          "focus": "52% 28%",
+          "shows": "Same woman sitting on a wooden park bench holding a book",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 4000,
+          "originalHeight": 6000,
+          "unsplashId": "sLjtUFc4wfg",
+          "source": "https://unsplash.com/photos/woman-in-gray-hijab-and-black-leggings-sitting-on-brown-wooden-bench-sLjtUFc4wfg",
+          "photographer": "Raamin ka",
+          "photographerUrl": "https://unsplash.com/@raaminka",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        },
+        {
+          "src": "photos/members/madina-3.jpg",
+          "role": "extra",
+          "focus": "48% 42%",
+          "shows": "Same woman reading a book on the bench under autumn trees",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 4000,
+          "originalHeight": 6000,
+          "unsplashId": "fKOaqae7zcs",
+          "source": "https://unsplash.com/photos/woman-in-black-hoodie-sitting-on-brown-wooden-bench-fKOaqae7zcs",
+          "photographer": "Raamin ka",
+          "photographerUrl": "https://unsplash.com/@raaminka",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        }
+      ]
+    },
+    {
+      "id": "sevara",
+      "gender": "female",
+      "approxAge": 26,
+      "photos": [
+        {
+          "src": "photos/members/sevara-1.jpg",
+          "role": "portrait",
+          "focus": "48% 38%",
+          "shows": "Woman in a dark-green headscarf and orange dress, warm portrait",
+          "width": 1068,
+          "height": 1600,
+          "originalWidth": 4912,
+          "originalHeight": 7360,
+          "unsplashId": "NAdFJtFFlHE",
+          "source": "https://unsplash.com/photos/woman-wearing-green-hijab-headscarf-standing-NAdFJtFFlHE",
+          "photographer": "Milad Shams",
+          "photographerUrl": "https://unsplash.com/@mmiladshams",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        },
+        {
+          "src": "photos/members/sevara-2.jpg",
+          "role": "lifestyle",
+          "focus": "48% 30%",
+          "shows": "Same woman smiling on a city walkway, tinted glasses",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 4000,
+          "originalHeight": 6000,
+          "unsplashId": "QnF6Ow3prqo",
+          "source": "https://unsplash.com/photos/woman-wearing-green-and-orange-abaya-dress-QnF6Ow3prqo",
+          "photographer": "Milad Shams",
+          "photographerUrl": "https://unsplash.com/@mmiladshams",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        },
+        {
+          "src": "photos/members/sevara-3.jpg",
+          "role": "extra",
+          "focus": "60% 36%",
+          "shows": "Same woman seated on steps, looking over her shoulder",
+          "width": 1068,
+          "height": 1600,
+          "originalWidth": 4912,
+          "originalHeight": 7360,
+          "unsplashId": "baWEU0uWkWs",
+          "source": "https://unsplash.com/photos/focus-photography-of-woman-in-green-headscarf-baWEU0uWkWs",
+          "photographer": "Milad Shams",
+          "photographerUrl": "https://unsplash.com/@mmiladshams",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        }
+      ]
+    },
+    {
+      "id": "nigora",
+      "gender": "female",
+      "approxAge": 25,
+      "photos": [
+        {
+          "src": "photos/members/nigora-1.jpg",
+          "role": "portrait",
+          "focus": "50% 32%",
+          "shows": "Woman in a grey headscarf smiling at a cafe table (4:5 crop of a landscape frame)",
+          "width": 1280,
+          "height": 1600,
+          "originalWidth": 6720,
+          "originalHeight": 4480,
+          "unsplashId": "qwwImY1plsE",
+          "source": "https://unsplash.com/photos/a-woman-sitting-at-a-table-in-a-restaurant-qwwImY1plsE",
+          "photographer": "Soheil Kmp",
+          "photographerUrl": "https://unsplash.com/@soheilkmp",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license",
+          "crop": {
+            "aspect": "4:5",
+            "leftFraction": 0.333,
+            "widthFraction": 0.533
+          }
+        },
+        {
+          "src": "photos/members/nigora-2.jpg",
+          "role": "lifestyle",
+          "focus": "50% 38%",
+          "shows": "Same woman resting her chin on her hand in a green-walled cafe (4:5 crop)",
+          "width": 1280,
+          "height": 1600,
+          "originalWidth": 6720,
+          "originalHeight": 4480,
+          "unsplashId": "eKA34ZQ_3Kk",
+          "source": "https://unsplash.com/photos/a-woman-sitting-at-a-table-in-a-restaurant-eKA34ZQ_3Kk",
+          "photographer": "Soheil Kmp",
+          "photographerUrl": "https://unsplash.com/@soheilkmp",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license",
+          "crop": {
+            "aspect": "4:5",
+            "leftFraction": 0.263,
+            "widthFraction": 0.533
+          }
+        },
+        {
+          "src": "photos/members/nigora-3.jpg",
+          "role": "extra",
+          "focus": "50% 30%",
+          "shows": "Same woman reading a magazine at the cafe table (4:5 crop)",
+          "width": 1280,
+          "height": 1600,
+          "originalWidth": 5784,
+          "originalHeight": 4400,
+          "unsplashId": "yzsuHj11ZsI",
+          "source": "https://unsplash.com/photos/a-woman-sitting-at-a-table-reading-a-book-yzsuHj11ZsI",
+          "photographer": "Soheil Kmp",
+          "photographerUrl": "https://unsplash.com/@soheilkmp",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license",
+          "crop": {
+            "aspect": "4:5",
+            "leftFraction": 0.316,
+            "widthFraction": 0.609
+          }
+        }
+      ]
+    },
+    {
+      "id": "zarina",
+      "gender": "female",
+      "approxAge": 24,
+      "photos": [
+        {
+          "src": "photos/members/zarina-1.jpg",
+          "role": "portrait",
+          "focus": "50% 42%",
+          "shows": "Woman in a black headscarf and beige trench coat against an ivy wall",
+          "width": 1200,
+          "height": 1600,
+          "originalWidth": 4000,
+          "originalHeight": 5334,
+          "unsplashId": "IFhxiY2OW14",
+          "source": "https://unsplash.com/photos/a-woman-standing-in-front-of-a-wall-of-leaves-IFhxiY2OW14",
+          "photographer": "Rezli",
+          "photographerUrl": "https://unsplash.com/@rezli",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        },
+        {
+          "src": "photos/members/zarina-2.jpg",
+          "role": "lifestyle",
+          "focus": "50% 50%",
+          "shows": "Same woman, half-body, ivy wall background",
+          "width": 1200,
+          "height": 1600,
+          "originalWidth": 4000,
+          "originalHeight": 5334,
+          "unsplashId": "ZCS6vW0Xp1A",
+          "source": "https://unsplash.com/photos/a-woman-standing-in-front-of-a-wall-of-leaves-ZCS6vW0Xp1A",
+          "photographer": "Rezli",
+          "photographerUrl": "https://unsplash.com/@rezli",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        }
+      ]
+    },
+    {
+      "id": "kamola",
+      "gender": "female",
+      "approxAge": 28,
+      "photos": [
+        {
+          "src": "photos/members/kamola-1.jpg",
+          "role": "portrait",
+          "focus": "45% 28%",
+          "shows": "Woman in a bright-blue headscarf and black coat, smiling with eyes closed, autumn park",
+          "width": 1068,
+          "height": 1600,
+          "originalWidth": 4912,
+          "originalHeight": 7360,
+          "unsplashId": "pXwyQFjyZRY",
+          "source": "https://unsplash.com/photos/a-person-wearing-a-scarf-and-a-scarf-around-the-head-pXwyQFjyZRY",
+          "photographer": "Maxim Potkin ❄",
+          "photographerUrl": "https://unsplash.com/@maxzzerzz",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        }
+      ]
+    },
+    {
+      "id": "laylo",
+      "gender": "female",
+      "approxAge": 27,
+      "photos": [
+        {
+          "src": "photos/members/laylo-1.jpg",
+          "role": "portrait",
+          "focus": "45% 40%",
+          "shows": "Woman in a cream hijab and lime-green blouse smiling indoors",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 4012,
+          "originalHeight": 6016,
+          "unsplashId": "92W3YA_TJ0Q",
+          "source": "https://unsplash.com/photos/a-smiling-woman-poses-in-a-green-outfit-92W3YA_TJ0Q",
+          "photographer": "Fajar Herlambang STUDIO",
+          "photographerUrl": "https://unsplash.com/@hng21",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        },
+        {
+          "src": "photos/members/laylo-2.jpg",
+          "role": "lifestyle",
+          "focus": "50% 40%",
+          "shows": "Same woman, close smiling shot in a classroom (4:5 crop of a landscape frame)",
+          "width": 1280,
+          "height": 1600,
+          "originalWidth": 6016,
+          "originalHeight": 4012,
+          "unsplashId": "K-djRi5VTZQ",
+          "source": "https://unsplash.com/photos/smiling-woman-gives-a-peace-sign-K-djRi5VTZQ",
+          "photographer": "Fajar Herlambang STUDIO",
+          "photographerUrl": "https://unsplash.com/@hng21",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license",
+          "crop": {
+            "aspect": "4:5",
+            "leftFraction": 0.233,
+            "widthFraction": 0.534
+          }
+        },
+        {
+          "src": "photos/members/laylo-3.jpg",
+          "role": "extra",
+          "focus": "50% 20%",
+          "shows": "Same woman, full-length in a batik skirt with a handbag",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 4012,
+          "originalHeight": 6016,
+          "unsplashId": "zkac4lVIOGY",
+          "source": "https://unsplash.com/photos/a-woman-in-traditional-attire-smiles-confidently-zkac4lVIOGY",
+          "photographer": "Fajar Herlambang STUDIO",
+          "photographerUrl": "https://unsplash.com/@hng21",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        }
+      ]
+    },
+    {
+      "id": "gulnora",
+      "gender": "female",
+      "approxAge": 32,
+      "photos": [
+        {
+          "src": "photos/members/gulnora-1.jpg",
+          "role": "portrait",
+          "focus": "48% 28%",
+          "shows": "Woman in a brown hijab and dark-green dress, arms crossed, smiling",
+          "width": 1280,
+          "height": 1600,
+          "originalWidth": 4160,
+          "originalHeight": 5200,
+          "unsplashId": "ajWjuIEF2qU",
+          "source": "https://unsplash.com/photos/a-woman-in-a-hijab-standing-with-her-arms-crossed-ajWjuIEF2qU",
+          "photographer": "Levi Meir Clancy",
+          "photographerUrl": "https://unsplash.com/@levimeirclancy",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        },
+        {
+          "src": "photos/members/gulnora-2.jpg",
+          "role": "lifestyle",
+          "focus": "50% 37%",
+          "shows": "Same woman on a park bench, chin on hand (4:5 crop of a landscape frame)",
+          "width": 1280,
+          "height": 1600,
+          "originalWidth": 6240,
+          "originalHeight": 4160,
+          "unsplashId": "VM8BtQAZlTk",
+          "source": "https://unsplash.com/photos/a-woman-in-a-hijab-is-sitting-on-a-bench-VM8BtQAZlTk",
+          "photographer": "Levi Meir Clancy",
+          "photographerUrl": "https://unsplash.com/@levimeirclancy",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license",
+          "crop": {
+            "aspect": "4:5",
+            "leftFraction": 0.393,
+            "widthFraction": 0.533
+          }
+        },
+        {
+          "src": "photos/members/gulnora-3.jpg",
+          "role": "extra",
+          "focus": "50% 38%",
+          "shows": "Same woman on the bench looking aside, palm trees behind (4:5 crop)",
+          "width": 1280,
+          "height": 1600,
+          "originalWidth": 6240,
+          "originalHeight": 4160,
+          "unsplashId": "Bs3TcBHg004",
+          "source": "https://unsplash.com/photos/a-woman-in-a-hijab-sitting-on-a-bench-Bs3TcBHg004",
+          "photographer": "Levi Meir Clancy",
+          "photographerUrl": "https://unsplash.com/@levimeirclancy",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license",
+          "crop": {
+            "aspect": "4:5",
+            "leftFraction": 0.263,
+            "widthFraction": 0.533
+          }
+        }
+      ]
+    },
+    {
+      "id": "shahlo",
+      "gender": "female",
+      "approxAge": 24,
+      "photos": [
+        {
+          "src": "photos/members/shahlo-1.jpg",
+          "role": "portrait",
+          "focus": "50% 34%",
+          "shows": "Woman in a cream scarf-hijab and black top smiling outdoors",
+          "width": 900,
+          "height": 1600,
+          "originalWidth": 3376,
+          "originalHeight": 6000,
+          "unsplashId": "_XIUcteveNQ",
+          "source": "https://unsplash.com/photos/a-woman-wearing-a-white-head-scarf-_XIUcteveNQ",
+          "photographer": "dzulkifli lantana",
+          "photographerUrl": "https://unsplash.com/@dzvlm",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        },
+        {
+          "src": "photos/members/shahlo-2.jpg",
+          "role": "lifestyle",
+          "focus": "58% 27%",
+          "shows": "Same woman, hands on hips, trees behind",
+          "width": 900,
+          "height": 1600,
+          "originalWidth": 3376,
+          "originalHeight": 6000,
+          "unsplashId": "HWqP4bKN9O4",
+          "source": "https://unsplash.com/photos/HWqP4bKN9O4",
+          "photographer": "dzulkifli lantana",
+          "photographerUrl": "https://unsplash.com/@dzvlm",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        },
+        {
+          "src": "photos/members/shahlo-3.jpg",
+          "role": "extra",
+          "focus": "50% 27%",
+          "shows": "Same woman by a lake holding her phone",
+          "width": 900,
+          "height": 1600,
+          "originalWidth": 3376,
+          "originalHeight": 6000,
+          "unsplashId": "M-A2zizyEus",
+          "source": "https://unsplash.com/photos/M-A2zizyEus",
+          "photographer": "dzulkifli lantana",
+          "photographerUrl": "https://unsplash.com/@dzvlm",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        }
+      ]
+    },
+    {
+      "id": "malika",
+      "gender": "female",
+      "approxAge": 27,
+      "photos": [
+        {
+          "src": "photos/members/malika-1.jpg",
+          "role": "portrait",
+          "focus": "45% 28%",
+          "shows": "Woman with a grey knitted shawl smiling against a brick wall",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 2730,
+          "originalHeight": 4096,
+          "unsplashId": "rVYbjnrpcbg",
+          "source": "https://unsplash.com/photos/a-woman-wearing-a-shawl-standing-next-to-a-brick-wall-rVYbjnrpcbg",
+          "photographer": "Omid Ajorlo",
+          "photographerUrl": "https://unsplash.com/@omidajorlo7",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        }
+      ]
+    },
+    {
+      "id": "mohira",
+      "gender": "female",
+      "approxAge": 26,
+      "photos": [
+        {
+          "src": "photos/members/mohira-1.jpg",
+          "role": "portrait",
+          "focus": "50% 45%",
+          "shows": "Woman in a black headscarf and brown coat smiling before a blue-tiled dome",
+          "width": 900,
+          "height": 1600,
+          "originalWidth": 1684,
+          "originalHeight": 2994,
+          "unsplashId": "RicClsovZ-M",
+          "source": "https://unsplash.com/photos/a-woman-standing-in-front-of-a-building-RicClsovZ-M",
+          "photographer": "Aryan Fo",
+          "photographerUrl": "https://unsplash.com/@aryan_fo",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        }
+      ]
+    },
+    {
+      "id": "jasur",
+      "gender": "male",
+      "approxAge": 25,
+      "photos": [
+        {
+          "src": "photos/members/jasur-1.jpg",
+          "role": "portrait",
+          "focus": "45% 20%",
+          "shows": "Young man in glasses and a cream short-sleeve shirt on a leafy street",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 4000,
+          "originalHeight": 6000,
+          "unsplashId": "29v6GTjBwgM",
+          "source": "https://unsplash.com/photos/a-man-wearing-glasses-29v6GTjBwgM",
+          "photographer": "omid bonyadian",
+          "photographerUrl": "https://unsplash.com/@omidbonyadian_",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        },
+        {
+          "src": "photos/members/jasur-2.jpg",
+          "role": "lifestyle",
+          "focus": "50% 25%",
+          "shows": "Same man laughing outdoors, glasses hooked on his shirt (4:5 crop of a landscape frame)",
+          "width": 1280,
+          "height": 1600,
+          "originalWidth": 6000,
+          "originalHeight": 4000,
+          "unsplashId": "ROK7RJyRtlE",
+          "source": "https://unsplash.com/photos/a-man-standing-outside-ROK7RJyRtlE",
+          "photographer": "omid bonyadian",
+          "photographerUrl": "https://unsplash.com/@omidbonyadian_",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license",
+          "crop": {
+            "aspect": "4:5",
+            "leftFraction": 0.433,
+            "widthFraction": 0.533
+          }
+        },
+        {
+          "src": "photos/members/jasur-3.jpg",
+          "role": "extra",
+          "focus": "48% 45%",
+          "shows": "Same man standing at the foot of park stairs",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 3806,
+          "originalHeight": 5709,
+          "unsplashId": "XaPNo10Cwes",
+          "source": "https://unsplash.com/photos/a-man-standing-on-a-sidewalk-XaPNo10Cwes",
+          "photographer": "omid bonyadian",
+          "photographerUrl": "https://unsplash.com/@omidbonyadian_",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        }
+      ]
+    },
+    {
+      "id": "sardor",
+      "gender": "male",
+      "approxAge": 24,
+      "photos": [
+        {
+          "src": "photos/members/sardor-1.jpg",
+          "role": "portrait",
+          "focus": "50% 26%",
+          "shows": "Young man in glasses, tan work jacket over a white tee",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 4160,
+          "originalHeight": 6240,
+          "unsplashId": "h0aftdgc4_I",
+          "source": "https://unsplash.com/photos/a-man-wearing-glasses-and-a-brown-jacket-h0aftdgc4_I",
+          "photographer": "Amir Abbaspoor",
+          "photographerUrl": "https://unsplash.com/@amirabbaspoor",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        },
+        {
+          "src": "photos/members/sardor-2.jpg",
+          "role": "lifestyle",
+          "focus": "52% 14%",
+          "shows": "Same man sitting on light stone steps",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 4160,
+          "originalHeight": 6240,
+          "unsplashId": "psQFNct8fh4",
+          "source": "https://unsplash.com/photos/a-man-sitting-on-a-set-of-stairs-psQFNct8fh4",
+          "photographer": "Amir Abbaspoor",
+          "photographerUrl": "https://unsplash.com/@amirabbaspoor",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        },
+        {
+          "src": "photos/members/sardor-3.jpg",
+          "role": "extra",
+          "focus": "50% 16%",
+          "shows": "Same man leaning on a striped wooden wall",
+          "width": 1107,
+          "height": 1600,
+          "originalWidth": 4160,
+          "originalHeight": 6012,
+          "unsplashId": "1C4SMWBihDk",
+          "source": "https://unsplash.com/photos/a-man-standing-in-front-of-a-wooden-wall-1C4SMWBihDk",
+          "photographer": "Amir Abbaspoor",
+          "photographerUrl": "https://unsplash.com/@amirabbaspoor",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        }
+      ]
+    },
+    {
+      "id": "bekzod",
+      "gender": "male",
+      "approxAge": 29,
+      "photos": [
+        {
+          "src": "photos/members/bekzod-1.jpg",
+          "role": "portrait",
+          "focus": "45% 24%",
+          "shows": "Bearded man in a navy shirt in front of old wooden doors",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 3712,
+          "originalHeight": 5568,
+          "unsplashId": "SFrn-OvD668",
+          "source": "https://unsplash.com/photos/SFrn-OvD668",
+          "photographer": "Mohammad Mardani",
+          "photographerUrl": "https://unsplash.com/@mmdam20",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        },
+        {
+          "src": "photos/members/bekzod-2.jpg",
+          "role": "lifestyle",
+          "focus": "50% 24%",
+          "shows": "Same man standing in a dark doorway, hand in pocket",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 3712,
+          "originalHeight": 5568,
+          "unsplashId": "NEK5VseJN7I",
+          "source": "https://unsplash.com/photos/NEK5VseJN7I",
+          "photographer": "Mohammad Mardani",
+          "photographerUrl": "https://unsplash.com/@mmdam20",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        },
+        {
+          "src": "photos/members/bekzod-3.jpg",
+          "role": "extra",
+          "focus": "40% 15%",
+          "shows": "Same man walking past a brick facade with wooden windows",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 3712,
+          "originalHeight": 5568,
+          "unsplashId": "iEKW5kB_C9s",
+          "source": "https://unsplash.com/photos/iEKW5kB_C9s",
+          "photographer": "Mohammad Mardani",
+          "photographerUrl": "https://unsplash.com/@mmdam20",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        }
+      ]
+    },
+    {
+      "id": "otabek",
+      "gender": "male",
+      "approxAge": 31,
+      "photos": [
+        {
+          "src": "photos/members/otabek-1.jpg",
+          "role": "portrait",
+          "focus": "48% 18%",
+          "shows": "Man in a tailored dark-green suit, smart portrait by tall windows",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 3456,
+          "originalHeight": 5184,
+          "unsplashId": "6OpE-aBqOUU",
+          "source": "https://unsplash.com/photos/a-man-in-a-suit-6OpE-aBqOUU",
+          "photographer": "omid bonyadian",
+          "photographerUrl": "https://unsplash.com/@omidbonyadian_",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        },
+        {
+          "src": "photos/members/otabek-2.jpg",
+          "role": "lifestyle",
+          "focus": "45% 17%",
+          "shows": "Same man buttoning his jacket, marble wall",
+          "width": 1102,
+          "height": 1600,
+          "originalWidth": 3456,
+          "originalHeight": 5017,
+          "unsplashId": "lQ0bz51_cXM",
+          "source": "https://unsplash.com/photos/a-man-in-a-green-jacket-lQ0bz51_cXM",
+          "photographer": "omid bonyadian",
+          "photographerUrl": "https://unsplash.com/@omidbonyadian_",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        },
+        {
+          "src": "photos/members/otabek-3.jpg",
+          "role": "extra",
+          "focus": "50% 40%",
+          "shows": "Same man, close half-body, window frame behind",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 3456,
+          "originalHeight": 5184,
+          "unsplashId": "kx9eaK1RBzI",
+          "source": "https://unsplash.com/photos/a-person-in-a-uniform-kx9eaK1RBzI",
+          "photographer": "omid bonyadian",
+          "photographerUrl": "https://unsplash.com/@omidbonyadian_",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        }
+      ]
+    },
+    {
+      "id": "bobur",
+      "gender": "male",
+      "approxAge": 27,
+      "photos": [
+        {
+          "src": "photos/members/bobur-1.jpg",
+          "role": "portrait",
+          "focus": "50% 28%",
+          "shows": "Bearded Central Asian man in a black tee, natural light",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 4480,
+          "originalHeight": 6720,
+          "unsplashId": "IO4ye3xOWIg",
+          "source": "https://unsplash.com/photos/a-man-with-a-beard-and-a-black-shirt-IO4ye3xOWIg",
+          "photographer": "Bobur Mavlonov",
+          "photographerUrl": "https://unsplash.com/@boburmavlonov",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        }
+      ]
+    },
+    {
+      "id": "aziz",
+      "gender": "male",
+      "approxAge": 30,
+      "photos": [
+        {
+          "src": "photos/members/aziz-1.jpg",
+          "role": "portrait",
+          "focus": "45% 20%",
+          "shows": "Smiling Central Asian man in a blue tee with a lanyard, old-town square",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 3769,
+          "originalHeight": 5654,
+          "unsplashId": "zx2JFW_t9xc",
+          "source": "https://unsplash.com/photos/a-person-with-a-name-tag-zx2JFW_t9xc",
+          "photographer": "Nursultan Abakirov",
+          "photographerUrl": "https://unsplash.com/@nabakirov",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        }
+      ]
+    },
+    {
+      "id": "rustam",
+      "gender": "male",
+      "approxAge": 30,
+      "photos": [
+        {
+          "src": "photos/members/rustam-1.jpg",
+          "role": "portrait",
+          "focus": "50% 30%",
+          "shows": "Man with a moustache in a checked blazer, outdoors (4:5 crop of a landscape frame)",
+          "width": 1280,
+          "height": 1600,
+          "originalWidth": 5184,
+          "originalHeight": 3456,
+          "unsplashId": "M-Qp65U1qZg",
+          "source": "https://unsplash.com/photos/a-man-in-a-suit-standing-in-front-of-a-tree-M-Qp65U1qZg",
+          "photographer": "Ghadir Sarwari",
+          "photographerUrl": "https://unsplash.com/@ghadirsarwari",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license",
+          "crop": {
+            "aspect": "4:5",
+            "leftFraction": 0.113,
+            "widthFraction": 0.533
+          }
+        }
+      ]
+    },
+    {
+      "id": "timur",
+      "gender": "male",
+      "approxAge": 28,
+      "photos": [
+        {
+          "src": "photos/members/timur-1.jpg",
+          "role": "portrait",
+          "focus": "50% 32%",
+          "shows": "Smiling man in glasses and a denim shirt, arms crossed, tree-lined road",
+          "width": 1067,
+          "height": 1600,
+          "originalWidth": 3712,
+          "originalHeight": 5568,
+          "unsplashId": "D4QAui4VV5s",
+          "source": "https://unsplash.com/photos/D4QAui4VV5s",
+          "photographer": "Mohammad Mardani",
+          "photographerUrl": "https://unsplash.com/@mmdam20",
+          "license": "Unsplash License",
+          "licenseUrl": "https://unsplash.com/license"
+        }
+      ]
+    }
+  ],
+  "welcome": [
+    {
+      "src": "photos/welcome/nikah-flowers.jpg",
+      "focus": "50% 35%",
+      "shows": "Bride in a white hijab gown handing a bouquet to the kneeling groom under a carved lattice arch",
+      "width": 1333,
+      "height": 2000,
+      "originalWidth": 4035,
+      "originalHeight": 6052,
+      "unsplashId": "dV8xI8mmnJs",
+      "source": "https://unsplash.com/photos/bride-gives-groom-a-bouquet-of-white-roses-dV8xI8mmnJs",
+      "photographer": "Ainur Iman",
+      "photographerUrl": "https://unsplash.com/@mynameisiknow",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    },
+    {
+      "src": "photos/welcome/nikah-marriage-books.jpg",
+      "focus": "55% 30%",
+      "shows": "Newlyweds in white traditional nikah attire smiling and holding up their marriage books",
+      "width": 2000,
+      "height": 1378,
+      "originalWidth": 4545,
+      "originalHeight": 3132,
+      "unsplashId": "9Lq0zlOu_dw",
+      "source": "https://unsplash.com/photos/newlyweds-holding-marriage-books-in-traditional-attire-9Lq0zlOu_dw",
+      "photographer": "Rizky Motion",
+      "photographerUrl": "https://unsplash.com/@rizky_motion",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    },
+    {
+      "src": "photos/welcome/wedding-registan.jpg",
+      "focus": "42% 50%",
+      "shows": "Uzbek bride (long-sleeved lace gown, veil) and groom exchanging rings on Registan Square, Samarkand",
+      "width": 2000,
+      "height": 1125,
+      "originalWidth": 3840,
+      "originalHeight": 2160,
+      "unsplashId": "wY7aTy2SH-s",
+      "source": "https://unsplash.com/photos/man-and-woman-in-wedding-dress-walking-on-the-street-during-daytime-wY7aTy2SH-s",
+      "photographer": "Abdul Raaz",
+      "photographerUrl": "https://unsplash.com/@raazstories",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    },
+    {
+      "src": "photos/welcome/couple-garden-hands.jpg",
+      "focus": "50% 40%",
+      "shows": "Bride and groom in modest traditional wedding attire walking hand in hand down garden steps",
+      "width": 1333,
+      "height": 2000,
+      "originalWidth": 4160,
+      "originalHeight": 6240,
+      "unsplashId": "FwF1-F4wEGA",
+      "source": "https://unsplash.com/photos/a-man-and-woman-in-wedding-attire-FwF1-F4wEGA",
+      "photographer": "Fahmy Taza",
+      "photographerUrl": "https://unsplash.com/@fahmytaza",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    },
+    {
+      "src": "photos/welcome/family-autumn-park.jpg",
+      "focus": "55% 45%",
+      "shows": "Young family - mother in hijab, father and toddler - smiling in an autumn park",
+      "width": 1333,
+      "height": 2000,
+      "originalWidth": 3456,
+      "originalHeight": 5184,
+      "unsplashId": "1hIysloHFZY",
+      "source": "https://unsplash.com/photos/a-family-poses-for-a-photo-in-the-autumn-1hIysloHFZY",
+      "photographer": "Asal Mshk",
+      "photographerUrl": "https://unsplash.com/@asalmashkoori",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    },
+    {
+      "src": "photos/welcome/family-three-generations.jpg",
+      "focus": "45% 50%",
+      "shows": "Three-generation family (grandparents, parents, children) posing at dusk in front of a historic mosque square",
+      "width": 2000,
+      "height": 1335,
+      "originalWidth": 6016,
+      "originalHeight": 4016,
+      "unsplashId": "NCZt-dUakjs",
+      "source": "https://unsplash.com/photos/group-of-people-standing-on-yellow-red-and-green-flower-field-during-daytime-NCZt-dUakjs",
+      "photographer": "Aurélien Lemasson-Théobald",
+      "photographerUrl": "https://unsplash.com/@aurel__lens",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    },
+    {
+      "src": "photos/welcome/shah-i-zinda-woman.jpg",
+      "focus": "42% 65%",
+      "shows": "Woman in a teal hijab and long navy dress at the blue-tiled Shah-i-Zinda necropolis, Samarkand",
+      "width": 1599,
+      "height": 1600,
+      "originalWidth": 2992,
+      "originalHeight": 2993,
+      "unsplashId": "ONokA7pWRfE",
+      "source": "https://unsplash.com/photos/woman-poses-in-front-of-stunning-blue-architecture-ONokA7pWRfE",
+      "photographer": "Edgar Cavazos",
+      "photographerUrl": "https://unsplash.com/@edgar_cape",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    },
+    {
+      "src": "photos/welcome/plov-dastarkhan.jpg",
+      "focus": "50% 55%",
+      "shows": "Uzbek plov on a hand-painted platter on a wooden dastarkhan table",
+      "width": 1333,
+      "height": 2000,
+      "originalWidth": 4160,
+      "originalHeight": 6240,
+      "unsplashId": "IuQl4SNJO3Q",
+      "source": "https://unsplash.com/photos/a-plate-of-food-with-meat-and-rice-on-a-table-IuQl4SNJO3Q",
+      "photographer": "otabek xatipov",
+      "photographerUrl": "https://unsplash.com/@arrogant_7007",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  ],
+  "backgrounds": [
+    {
+      "src": "photos/backgrounds/girih-relief-soft.jpg",
+      "focus": "50% 50%",
+      "shows": "Soft grey carved geometric (girih) star relief - low contrast, safe directly behind text",
+      "width": 1600,
+      "height": 1200,
+      "originalWidth": 4000,
+      "originalHeight": 3000,
+      "unsplashId": "PE7PiuPkBt8",
+      "source": "https://unsplash.com/photos/a-close-up-of-a-white-wall-with-a-pattern-on-it-PE7PiuPkBt8",
+      "photographer": "KC Shum",
+      "photographerUrl": "https://unsplash.com/@kcshum",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    },
+    {
+      "src": "photos/backgrounds/registan-tilework.jpg",
+      "focus": "50% 50%",
+      "shows": "Blue majolica tilework arcades of a Registan madrasa, Samarkand - busy; use behind text only with a dark overlay or blur",
+      "width": 1600,
+      "height": 1067,
+      "originalWidth": 6100,
+      "originalHeight": 4067,
+      "unsplashId": "iOUQSxsEXdA",
+      "source": "https://unsplash.com/photos/an-ornate-building-with-blue-and-white-tiles-iOUQSxsEXdA",
+      "photographer": "Far Chinberdiev",
+      "photographerUrl": "https://unsplash.com/@fardevio",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "softened": "Gaussian blur 0.8px applied for use behind text"
+    }
+  ]
+}
