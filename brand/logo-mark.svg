@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
   <defs>
-    <linearGradient id="bg" x1="16" y1="8" x2="104" y2="116" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#A47BFF"/><stop offset=".55" stop-color="#7033E0"/><stop offset="1" stop-color="#4E1C9E"/></linearGradient>
+    <linearGradient id="bg" x1="16" y1="8" x2="104" y2="116" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#F59E85"/><stop offset=".55" stop-color="#D36240"/><stop offset="1" stop-color="#944026"/></linearGradient>
     <radialGradient id="shine" cx="38" cy="26" r="70" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff" stop-opacity=".28"/><stop offset=".6" stop-color="#fff" stop-opacity="0"/></radialGradient>
   </defs>
   <circle cx="60" cy="60" r="58" fill="url(#bg)"/>
