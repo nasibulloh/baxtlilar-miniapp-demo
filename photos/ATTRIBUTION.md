@@ -58,3 +58,8 @@ listed above, so they carry the same Unsplash credit; they live next to the othe
 | --- | --- | --- |
 | `welcome/family.jpg` | `photos/welcome/family-park-child.jpg` | The photo Aisha sends in the chat - a family in a sunlit park |
 | `chat/video.mp4`, `chat/video-poster.jpg` | `photos/members/madina-1.jpg` | Aisha's own persona on a slow zoom: her video message, and the far end of a video call |
+
+## photos/c2 and brand/c2-wordmark.png
+
+Cropped out of the Figma prototype's own render of `C2 · Screens` (`figma/tools/frame-hi.mjs`), so the screens carry
+the design's photographs and logotype rather than stand-ins. They belong to the design file, not to this repository.
